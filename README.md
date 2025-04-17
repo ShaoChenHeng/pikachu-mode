@@ -1,8 +1,8 @@
 # Pikachu Mode for Emacs
 
-![demo2](https://github.com/ShaoChenHeng/pikachu-mode/tree/main/screenshot/demo2.png)
+![demo2](https://github.com/ShaoChenHeng/pikachu-mode/blob/main/screenshot/demo2.png)
 
-![demo1](https://github.com/ShaoChenHeng/pikachu-mode/tree/main/screenshot/demo1.png)
+![demo1](https://github.com/ShaoChenHeng/pikachu-mode/blob/main/screenshot/demo1.png)
 
 A modified Emacs plugin based on the [Parrot](https://github.com/dp12/parrot) that displays a cute Pikachu animation in the mode line.
 ![License](https://img.shields.io/badge/license-GPL3.0-blue)
