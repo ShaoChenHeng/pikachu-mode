@@ -2,9 +2,8 @@
 
 ![demo2](https://github.com/ShaoChenHeng/pikachu-mode/blob/main/screenshot/demo2.png)
 
-![demo1](https://github.com/ShaoChenHeng/pikachu-mode/blob/main/screenshot/demo1.png)
-
 A modified Emacs plugin based on the [Parrot](https://github.com/dp12/parrot) that displays a cute Pikachu animation in the mode line.
+
 ![License](https://img.shields.io/badge/license-GPL3.0-blue)
 ![Emacs Version](https://img.shields.io/badge/Emacs-26.1%2B-brightgreen)
 ![GitHub Stars](https://img.shields.io/github/stars/shaochenheng/pikachu-mode?style=social)
@@ -33,6 +32,7 @@ Add click event:
           (lambda ()
             (message "Pika pika!")))
 ```
+![demo1](https://github.com/ShaoChenHeng/pikachu-mode/blob/main/screenshot/demo1.png)
 
 ## ✨ Acknowledgments
 
